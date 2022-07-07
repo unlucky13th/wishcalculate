@@ -1,0 +1,16 @@
+C:\Users\suwichan\source\repos\wishcal\wishcal\bin\Debug\wishcal.exe.config
+C:\Users\suwichan\source\repos\wishcal\wishcal\bin\Debug\wishcal.exe
+C:\Users\suwichan\source\repos\wishcal\wishcal\bin\Debug\wishcal.pdb
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.csproj.AssemblyReference.cache
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.csproj.SuggestedBindingRedirects.cache
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\MainWindow.g.cs
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\App.g.cs
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal_MarkupCompile.cache
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal_MarkupCompile.lref
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\MainWindow.baml
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.g.resources
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.Properties.Resources.resources
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.csproj.GenerateResource.cache
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.csproj.CoreCompileInputs.cache
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.exe
+C:\Users\suwichan\source\repos\wishcal\wishcal\obj\Debug\wishcal.pdb
